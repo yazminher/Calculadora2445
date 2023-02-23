@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora2445</string>
+    <string name="btn_text_suma">SUMA</string>
+    <string name="btn_text_resta">RESTA</string>
+    <string name="btn_text_multiplicacion">MULTIPLICACION</string>
+    <string name="btn_text_division">DIVISION</string>
+
+
+    <string name="text_hing_numero"></string>
+
+</resources>
